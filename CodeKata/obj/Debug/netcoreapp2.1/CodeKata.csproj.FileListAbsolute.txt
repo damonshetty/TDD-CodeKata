@@ -1,0 +1,14 @@
+D:\Development\TDD\CodeKata\CodeKata\obj\Debug\netcoreapp2.1\CodeKata.csprojAssemblyReference.cache
+D:\Development\TDD\CodeKata\CodeKata\obj\Debug\netcoreapp2.1\CodeKata.csproj.CoreCompileInputs.cache
+D:\Development\TDD\CodeKata\CodeKata\obj\Debug\netcoreapp2.1\CodeKata.AssemblyInfoInputs.cache
+D:\Development\TDD\CodeKata\CodeKata\obj\Debug\netcoreapp2.1\CodeKata.AssemblyInfo.cs
+D:\Development\TDD\CodeKata\CodeKata\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\Development\TDD\CodeKata\CodeKata\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+D:\Development\TDD\CodeKata\CodeKata\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+D:\Development\TDD\CodeKata\CodeKata\bin\Debug\netcoreapp2.1\CodeKata.deps.json
+D:\Development\TDD\CodeKata\CodeKata\bin\Debug\netcoreapp2.1\CodeKata.runtimeconfig.json
+D:\Development\TDD\CodeKata\CodeKata\bin\Debug\netcoreapp2.1\CodeKata.runtimeconfig.dev.json
+D:\Development\TDD\CodeKata\CodeKata\bin\Debug\netcoreapp2.1\CodeKata.dll
+D:\Development\TDD\CodeKata\CodeKata\bin\Debug\netcoreapp2.1\CodeKata.pdb
+D:\Development\TDD\CodeKata\CodeKata\obj\Debug\netcoreapp2.1\CodeKata.dll
+D:\Development\TDD\CodeKata\CodeKata\obj\Debug\netcoreapp2.1\CodeKata.pdb
